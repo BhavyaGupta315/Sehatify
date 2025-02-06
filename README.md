@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Introduction
+**Sehatify** is a secure portal where any individual can create their profile and store their medical records and can easily share their medical history with hospitals and any medical association. 
+Consent based sharing and Digitalazing of Medical Records with Artificial Inteligence Integration for summarizing the records are some of its main feature.
+
+---
+`Website Under Development as of Now`
 
 ## Getting Started
 
